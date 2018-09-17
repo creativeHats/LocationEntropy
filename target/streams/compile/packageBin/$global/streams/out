@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\njirafe\Documents\LocationEntropy\target\scala-2.11\locationentropy_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\entropy\LocationEntropy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\njirafe\Documents\LocationEntropy\target\scala-2.11\classes\com\entropy\LocationEntropy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\entropy[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\njirafe\Documents\LocationEntropy\target\scala-2.11\classes\com\entropy[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\njirafe\Documents\LocationEntropy\target\scala-2.11\classes\data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	data\airport.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\njirafe\Documents\LocationEntropy\target\scala-2.11\classes\data\airport.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\entropy\LocationEntropy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\njirafe\Documents\LocationEntropy\target\scala-2.11\classes\com\entropy\LocationEntropy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\njirafe\Documents\LocationEntropy\target\scala-2.11\classes\com[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
